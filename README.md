@@ -8,4 +8,4 @@ https://www.instructables.com/id/Real-time-Face-Recognition-an-End-to-end-Projec
 <br>
 <p><img src="https://github.com/Mjrovai/OpenCV-Face-Recognition/blob/master/FaceRecogBlock.png?raw=true"></p>
 
-![](ezgif.com-video-to-gif)
+![](HL.gif)
