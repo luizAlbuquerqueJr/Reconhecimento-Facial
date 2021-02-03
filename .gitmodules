@@ -1,0 +1,3 @@
+[submodule "faceEyeDetection"]
+	path = faceEyeDetection
+	url = git@github.com:luizkof/faceEyeDetection.git
